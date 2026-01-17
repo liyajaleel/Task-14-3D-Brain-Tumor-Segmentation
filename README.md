@@ -25,4 +25,11 @@ data is used to demonstrate the workflow.
 3. Training with Dice loss
 4. Inference & visualization
 
+## Visualization
+A Jupyter Notebook (`visualization.ipynb`) is included to demonstrate
+multi-modal MRI visualization, channel stacking, and normalization as
+required in Phase 1 of the task.
+
+
+
 

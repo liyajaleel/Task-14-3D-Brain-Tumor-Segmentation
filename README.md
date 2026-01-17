@@ -18,8 +18,11 @@ BraTS dataset requires registration and large downloads. The pipeline is impleme
 to be fully compatible with BraTS MRI data. Due to the 1-day task timeline, sample
 data is used to demonstrate the workflow.
 
+
 ## Phases Implemented
 1. Data loading & visualization
 2. 3D U-Net model definition
 3. Training with Dice loss
 4. Inference & visualization
+
+

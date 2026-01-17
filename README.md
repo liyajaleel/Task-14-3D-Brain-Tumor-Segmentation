@@ -35,7 +35,9 @@ A 3D U-Net model has been implemented using the MONAI framework as required in P
 of the task. The model accepts 4-channel multi-modal MRI input (T1, T1ce, T2, FLAIR)
 and outputs 3 segmentation classes corresponding to brain tumor sub-regions.
 
-
+## Training
+A minimal training script (`train.py`) has been implemented to demonstrate
+model optimization using Dice Loss, as required in Phase 3 of the task.
 
 
 

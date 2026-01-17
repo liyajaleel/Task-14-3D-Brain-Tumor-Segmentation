@@ -30,6 +30,12 @@ A Jupyter Notebook (`visualization.ipynb`) is included to demonstrate
 multi-modal MRI visualization, channel stacking, and normalization as
 required in Phase 1 of the task.
 
+## Model Architecture
+A 3D U-Net model has been implemented using the MONAI framework as required in Phase 2
+of the task. The model accepts 4-channel multi-modal MRI input (T1, T1ce, T2, FLAIR)
+and outputs 3 segmentation classes corresponding to brain tumor sub-regions.
+
+
 
 
 

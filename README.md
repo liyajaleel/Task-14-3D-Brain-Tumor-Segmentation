@@ -43,6 +43,13 @@ model optimization using Dice Loss, as required in Phase 3 of the task.
 An inference script (`inference.py`) is provided to demonstrate prediction
 and visualization of tumor segmentation results as required in Phase 4.
 
+## Conclusion
+This project demonstrates an end-to-end pipeline for 3D brain tumor segmentation
+using deep learning, covering data visualization, model architecture, training,
+and inference as specified in Task 14. The implementation is structured to be
+directly compatible with the BraTS dataset and can be extended with real MRI data
+and full-scale training in future work.
+
 
 
 

@@ -39,5 +39,10 @@ and outputs 3 segmentation classes corresponding to brain tumor sub-regions.
 A minimal training script (`train.py`) has been implemented to demonstrate
 model optimization using Dice Loss, as required in Phase 3 of the task.
 
+## Inference
+An inference script (`inference.py`) is provided to demonstrate prediction
+and visualization of tumor segmentation results as required in Phase 4.
+
+
 
 
